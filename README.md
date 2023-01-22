@@ -30,10 +30,13 @@ Scores:
 
 ![alt text](assets/images/Screenshot_3.png)
 
+The following animation demonstrates the application funcitonality:
 
-The following animation demonstrates the application functionality:
+![](assets/images/Coding_Quiz.gif)
 
-<iframe src="https://drive.google.com/file/d/1qIWW5CzB3jeqWTx3FZyivij5Mmu2Qps_/preview" width="640" height="480"></iframe>
+Link:
+https://drive.google.com/file/d/1qIWW5CzB3jeqWTx3FZyivij5Mmu2Qps_/preview
+
 
 ## Contact Details
 Please leave a note or get in touch about suggestions for code improvements, future projects and collaborations.
